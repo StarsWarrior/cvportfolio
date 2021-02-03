@@ -2919,7 +2919,7 @@ blockquote {
   align-items: center;
   width: 5rem;
   height: 5rem;
-  background-color: greenyellow;
+  background-color: wheat;
   border-radius: 50%;
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
 }
@@ -2929,6 +2929,6 @@ blockquote {
 }
 
 .view-mode span{
-  color: white;
+  color: rgb(255, 115, 0);
   font-size: 2rem;
 }
